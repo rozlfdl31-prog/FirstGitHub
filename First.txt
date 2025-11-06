@@ -1,3 +1,5 @@
 //깃허브 
 
 public text newText;
+// 게임오브젝트 선언
+public GameObject newGameObject;
